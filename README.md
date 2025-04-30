@@ -1,3 +1,5 @@
+lang: En
+
 # Markdown to HTML Converter
 
 This is a simple and lightweight web application developed using **HTML**, **CSS**, **JavaScript**, and **Node.js**. The app allows users to write Markdown code on the left side of the interface and see a live HTML preview rendered instantly on the right side.
@@ -71,6 +73,8 @@ markdown-html-converter/
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
+
+lang: Es
 
 # Conversor de Markdown a HTML
 
